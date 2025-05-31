@@ -1,0 +1,20 @@
+{
+    "videos": {
+        "video_1": {
+            "title": "Hii",
+            "description": "Hii this iz a demo video",
+            "price": 1,
+            "duration": "0:07",
+            "file_id": "BAACAgUAAxkBAAMpaDponniEV2IPxOxFfWPnCc2wPj0AAukJAAJKpDFXG8uRkUjvloQ2BA",
+            "id": "video_1"
+        }
+    },
+    "users": {
+        "6976229782": {
+            "user_id": 6976229782,
+            "username": "Palak_ok",
+            "is_admin": false,
+            "purchases": []
+        }
+    }
+}
